@@ -1,0 +1,8 @@
+{
+  "name": "GES Solar - Global Energy Systems Noida Sector 15",
+  "description": "Authorized System Integrator & PM Surya Ghar Yojana Vendor in Noida Sector 15. Rooftop solar with up to ₹1,08,000 cumulative Central and UP State subsidy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
